@@ -1,4 +1,4 @@
-![Screenshot](https://github.com//sinakhoshdel/crud-php-oop-pdo/blob/main/assets/Screenshot.png "CRUD")
+![Screenshot](https://github.com//sinakhoshdel/crud-php-oop-pdo/blob/master/assets/Screenshot.png "CRUD")
 
 <br>
 <h3>Installation steps:</h3>
