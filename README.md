@@ -1,7 +1,7 @@
-![Screenshot](https://github.com//sinakhoshdel/crud-php-oop-pdo/blob/master/assets/Screenshot.png "CRUD")
-
+![Screenshot](https://github.com/sinakhoshdel/crud-php-oop-pdo/blob/master/assets/Screenshot.png "CRUD")
 <br>
 <h3>Installation steps:</h3>
+DB name : removify
 you can clone this to your xammp or any other local server you have and the only change you need is this:
 for example:
 <pre>http://localhost:8080/removify</pre>
