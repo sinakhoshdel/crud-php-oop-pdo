@@ -3,7 +3,7 @@
 <h3>Installation steps:</h3>
 
 Create a new db -> <strong>DB name : removify</strong><br>
-import removify.sql in your db<br><br>
+import removify.sql into your db<br><br>
 you can clone this to your xammp or any other local server you have and the only change you need is this:
 for example:
 <pre>http://localhost:8080/removify</pre>
