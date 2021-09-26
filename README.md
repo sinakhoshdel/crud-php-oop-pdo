@@ -1,4 +1,4 @@
-![Screenshot](https://github.com/sinakhoshdel/crud-php-oop-pdo/tree/master/assets/Screenshot.png "CRUD")
+![Screenshot](/sinakhoshdel/crud-php-oop-pdo/blob/master/assets/Screenshot.png "CRUD")
 <br>
 <h3>Installation steps:</h3>
 you can clone this to your xammp or any other local server you have and the only change you need is this:
